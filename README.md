@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![alt text]([http://url/to/img.png](https://www.credly.com/badges/350ecf45-9463-4c37-ac76-9f06fcc93019/public_url)https://www.credly.com/badges/350ecf45-9463-4c37-ac76-9f06fcc93019/public_url)
+![alt text](https://www.credly.com/badges/350ecf45-9463-4c37-ac76-9f06fcc93019/public_url)
