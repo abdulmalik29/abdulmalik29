@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 &exclude_repo=stendhal_S1Team20
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&langs_count=10&layout=compact&langs_count=12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="350ecf45-9463-4c37-ac76-9f06fcc93019" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
