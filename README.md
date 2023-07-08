@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 &exclude_repo=stendhal_S1Team20
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&size_weight=0.6&count_weight=0.4&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
