@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-&exclude_repo=stendhal_S1Team20
 -->
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmalik29&theme=github_dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&size_weight=0.6&count_weight=0.4&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
