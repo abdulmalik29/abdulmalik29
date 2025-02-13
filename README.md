@@ -1,5 +1,6 @@
 ### Hello there 👋
-I am AbduMalik and I write code sometimes
+I am AbduMalik and I write code sometimes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Try RiskIt
+
 <!--
 **abdulmalik29/abdulmalik29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,5 @@ Here are some ideas to get you started:
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmalik29&theme=github_dark) 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&size_weight=0.6&count_weight=0.4&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmalik29&size_weight=0.6&count_weight=0.4&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/user-attachments/assets/9899c6e4-d081-4017-abb0-d7f9e9fa96cb" width="220"/>]([https://website-name.com](https://play.google.com/store/apps/details?id=com.ScientistsPlayground.Riskit))
 
-#### Try Risk it
-<a herf="https://play.google.com/store/apps/details?id=com.ScientistsPlayground.Riskit"><img src="https://github.com/user-attachments/assets/9899c6e4-d081-4017-abb0-d7f9e9fa96cb" width="220" />
